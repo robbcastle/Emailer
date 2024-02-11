@@ -1,0 +1,12 @@
+<html>
+Dear ${PERSON_NAME},<br><br>
+Thank you for ordering our <b>Genteken!</b><br><br>
+
+Your satisfaction is our top priority, and we are grateful for the opportunity to serve you.<br>
+Now that you've received your <b>Genteken</b>, we would love to see it in action! If you have am moment, we would appreciate if you could share photos of the Genteken hanging in your house!<br><br>
+
+Feel free to tags us on social media or reply to this email with your photos.<br>
+We can't wait to see how much you're enjoying your Genteken!<br><br>
+
+<img src="cid:image1">
+</html>
